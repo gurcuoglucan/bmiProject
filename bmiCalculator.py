@@ -80,7 +80,7 @@ elif heightUnit == 'ft':
         if bmi < 18.5:
             st.error("Underweight :heavy_exclamation_mark:")
         elif bmi < 25:
-            st.success("Normal :white_check_mark:")
+            st.success("Normal :100:")
         elif bmi < 30:
             st.warning("Overweight :grey_exclamation:")
         else:
