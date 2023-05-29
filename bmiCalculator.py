@@ -96,17 +96,13 @@ st.markdown(
         background-color: lightcoral;
         display: flex;
         margin: auto;
+        color: white;
     }
     
     code {
         font-size: 16px;
         color: red;
-    }
-    
-    .e1jwn65y1{
-        color: cadetblue;
-    }
-        
+    }    
     </style>
     """,
     unsafe_allow_html=True
