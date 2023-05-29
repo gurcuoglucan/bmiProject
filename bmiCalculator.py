@@ -99,6 +99,11 @@ st.markdown(
         color: white;
     }
     
+    .edgvbvh10:hover {
+        background-color: white;
+        color: lightcoral;
+    }
+    
     code {
         font-size: 16px;
         color: red;
