@@ -93,7 +93,7 @@ st.markdown(
     <style>
     
     .edgvbvh10{
-        background-color: blue;
+        background-color: lightcoral;
         display: flex;
         margin: auto;
     }
