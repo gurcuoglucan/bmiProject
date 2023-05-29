@@ -103,11 +103,14 @@ st.markdown(
         background-color: white;
         color: lightcoral;
     }
+    # css about button
     
     code {
         font-size: 16px;
         color: red;
-    }    
+    }
+    # css about the values 
+    
     </style>
     """,
     unsafe_allow_html=True
