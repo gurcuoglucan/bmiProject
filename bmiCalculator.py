@@ -93,14 +93,14 @@ st.markdown(
     <style>
     
     .edgvbvh10{
-        background-color: cadetblue;
+        background-color: blue;
         display: flex;
         margin: auto;
     }
     
     code {
         font-size: 16px;
-        color: cadetblue;
+        color: red;
     }
     
     .e1jwn65y1{
